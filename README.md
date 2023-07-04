@@ -1,7 +1,11 @@
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=100px height=100px src="https://www.baiscopelk.com/wp-content/uploads/2017/02/Logo.png" alt="Baiscope"></a>
+</p>
 
-<h2 align="Left">Sinhala Subtitle Downloader</h2>
 
+<h2 align="center">Sinhala Subtitle Downloader</h2>
 
 
 
